@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ORBIT — Rover Mission Control
 
 A complete local hackathon project for **Lost in Space — Rover Mission Control**. Generate an unknown planet, launch an autonomous rover, collect and upload science, introduce obstacles, and recover the rover before its energy runs out.
@@ -169,3 +170,6 @@ rover-mission-control/
 Install the Python and Python Debugger extensions. Run **Python: Select Interpreter**, choose `backend/.venv/Scripts/python.exe`, then select **ORBIT: debug backend** in Run and Debug. Stop any other server using port 8000 before pressing F5.
 
 Interactive API documentation is at **http://127.0.0.1:8000/docs** while the backend runs.
+=======
+# rover-mission-control
+>>>>>>> d385ae85388cf915b1259041e8516706d395441d
